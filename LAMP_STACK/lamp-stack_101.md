@@ -4,7 +4,7 @@
 
 1. installing the the linux terminal
 
-
+![Screen Shot of the linux terminal](~/home/emmaculate2excee/Pictures/Screenshot_2024-09-29_10_14_54.png)
 
 2. installing vscode and some vscode extensions
 

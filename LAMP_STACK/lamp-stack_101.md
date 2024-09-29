@@ -29,14 +29,18 @@
 
 
 * installed the git command lines into the terminal for easy access
-* sudo apt install net-tools
-* git init
+```
+sudo apt install net-tools
+git init
+```
 
 5. installing ssh and openssh
 ![installation of ssh and openss into the terminal](https://github.com/user-attachments/assets/e276fda6-5a6a-41fa-b303-e5b65bdddc9e)
 
 * installed ssh and openssh for connecting to my ec2 instance from my local computer.
-* sudo apt install openssh-server
+```
+sudo apt install openssh-server
+```
 
 6. Creating an instance in aws (aws and git)
 ![registration of my aws free tier account](https://github.com/user-attachments/assets/a10985ed-86a1-4f54-9823-299268d2a96e)
@@ -48,5 +52,7 @@
 ![sshing into my ec2 instance](https://github.com/user-attachments/assets/6d8d99ec-50f3-4d56-ac28-7cd81b1eaa2e)
 
 * connecting to my instance from my local computer
-* sudo chmod 0400 <private_key>.pem
-* ssh -i <private_key>.pem ubuntu@serveripaddress
+```
+sudo chmod 0400 <private_key>.pem
+ssh -i <private_key>.pem ubuntu@serveripaddress
+```

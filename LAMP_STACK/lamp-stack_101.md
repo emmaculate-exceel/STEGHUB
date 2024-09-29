@@ -3,35 +3,42 @@
 ### Setting up my workspace for assignments and tutorials
 
 1. installing the the linux terminal
-![Screenshot_2024-09-29_10_14_54](https://github.com/user-attachments/assets/445fce40-42d7-4ea8-aee5-735cd6f0f318)
+![installations of he windows terminal](https://github.com/user-attachments/assets/445fce40-42d7-4ea8-aee5-735cd6f0f318)
 
+* i installed the linux terminal from the windows store very quick and user friendly
 
 
 2. installing vscode and some vscode extensions
-![Screenshot_2024-09-29_10_13_28](https://github.com/user-attachments/assets/711fb891-b55d-4a90-a0fd-cdcc0dc2b17c)
+![installation of visual studio code](https://github.com/user-attachments/assets/711fb891-b55d-4a90-a0fd-cdcc0dc2b17c)
 
-![Screenshot_2024-09-29_10_13_55](https://github.com/user-attachments/assets/eafb3f2a-fe4f-4839-a26a-2aa81976136c)
+* installed Microsoft visual studio code on my system from the microsoft store 
 
+![installation vscode extensions](https://github.com/user-attachments/assets/eafb3f2a-fe4f-4839-a26a-2aa81976136c)
+
+* downloaded some neccesary extensions
 
 3. creating and initialzing a workspace folder
-![Screenshot_2024-09-29_10_14_54](https://github.com/user-attachments/assets/15944492-02bc-4f11-8c92-0161bcdf7d1c)
+![Creating and initilazing of my cloud/devops workspace](https://github.com/user-attachments/assets/15944492-02bc-4f11-8c92-0161bcdf7d1c)
 
-
+* created my workspace for easy of access 
 
 4. Installing git and using git command lines
-![Screenshot_2024-09-29_10_46_16](https://github.com/user-attachments/assets/6896e96d-721c-41c1-917c-21247b24aae6)
+![installation of git command lines into the terminal](https://github.com/user-attachments/assets/6896e96d-721c-41c1-917c-21247b24aae6)
 
-
+* installed the git command lines into the terminal for easy access
 
 5. installing ssh and openssh
-![Screenshot_2024-09-29_09_42_45](https://github.com/user-attachments/assets/e276fda6-5a6a-41fa-b303-e5b65bdddc9e)
+![installation of ssh and openss into the terminal](https://github.com/user-attachments/assets/e276fda6-5a6a-41fa-b303-e5b65bdddc9e)
 
-
+* installed ssh and openssh for connecting to my ec2 instance from my local computer.
 
 6. Creating an instance in aws (aws and git)
-![registration](https://github.com/user-attachments/assets/a10985ed-86a1-4f54-9823-299268d2a96e)
+![registration of my aws free tier account](https://github.com/user-attachments/assets/a10985ed-86a1-4f54-9823-299268d2a96e)
 
-
+* created an account
+* created an ec2 instance of the server
 
 7. ssh instance in image
-![Screenshot_2024-09-29_09_42_server](https://github.com/user-attachments/assets/6d8d99ec-50f3-4d56-ac28-7cd81b1eaa2e)
+![sshing into my ec2 instance](https://github.com/user-attachments/assets/6d8d99ec-50f3-4d56-ac28-7cd81b1eaa2e)
+
+* connecting to my instance from my local computer 

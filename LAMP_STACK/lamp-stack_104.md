@@ -5,16 +5,17 @@
 ##### mysql is a database management system(RDBMS) that uses structure Query language	for accessing and managing data
 
 
+```
+sudo apt install mysql-server
+sudo mysql
+```
 
-* sudo apt install mysql-server
-* sudo mysql
 
 
-
-
-* ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY 'PassWord.1';
-* exit
-
+```
+ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY 'PassWord.1';
+exit
+```
 
 
 
@@ -22,5 +23,7 @@
 
 
 
-``` sudo mysql_native_password
+```
+sudo mysql_native_password
+```
 * follow the prompt and customize it to your taste

@@ -4,6 +4,7 @@
 *Apache is a widely used webserver software that is developed and maintained by apache software foundation .
 
 * the  apache web server is one of the most popular web servers in the world and well documented.
+![Screenshot_2024-09-29_14_47_05](https://github.com/user-attachments/assets/1472db95-0bc6-4497-8358-6d3dbecce784)
 
 
 
@@ -15,6 +16,7 @@
 
 
 ### Checking if the apache 2 service is running
+![Screenshot_2024-09-29_14_48_18](https://github.com/user-attachments/assets/51be4b77-3aad-48d8-9ba0-8a6ca1b68720)
 
 
 

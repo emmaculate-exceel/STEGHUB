@@ -1,5 +1,6 @@
 <p align="center">
 ![steghub](https://github.com/user-attachments/assets/fffe24ba-ca04-49bf-ac1b-c1a968d28e66)
+![steghub](~/Documents/steghub.png)
 </p>
 
 Steghub DevOps/Cloud Engineering Course Overview

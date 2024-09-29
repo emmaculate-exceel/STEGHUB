@@ -1,6 +1,6 @@
-
 ![steghub](https://github.com/user-attachments/assets/fffe24ba-ca04-49bf-ac1b-c1a968d28e66)
-![steghub](~/Documents/steghub.png)
+![Dev-ops](https://github.com/user-attachments/assets/86f842f0-eedb-4023-abc6-cb4a2cd1e1e4)
+
 
 
 Steghub DevOps/Cloud Engineering Course Overview

@@ -1,5 +1,7 @@
 ![steghub](https://github.com/user-attachments/assets/fffe24ba-ca04-49bf-ac1b-c1a968d28e66)
-![stehub2](https://github.com/user-attachments/assets/4e8000fb-4dfc-418a-97e8-f00b3055f429)
+![steg2](https://github.com/user-attachments/assets/806c956c-1beb-4431-8505-fd83962ebd1f)
+
+
 
 
 

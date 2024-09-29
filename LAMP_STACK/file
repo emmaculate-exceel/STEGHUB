@@ -1,0 +1,81 @@
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+**Bold text**
+*Italic text*
+
+**Bold and italic** or
+__Bold or italic__
+
+- Item 1
+- Item 2
+
+  - SubItem 2.1
+
+1. First Item 
+2. Second Item 
+  1. secondSub 2.1
+
+[link names](file content)
+![link name](file directory or link)
+
+> Blockqoute
+
+`use backtick for inline formate`
+
+create horizontal ruless with 3 or more dashes ---
+
+
+|header | body |
+|-------|------|
+|name   |lname |
+|-------|------|
+|dani   |alves |
+|call	|lars  |
+|me	|you   |
+
+
+-[x] completed tasks
+-[ ] uncompleted tasks
+
+
+~~Strikethroug~~
+
+Here is a sentence with a footnote[^1].
+
+[^1]: This is the footnote text.
+
+
+Term 1
+:   Definition 1
+
+Term 2
+:   Definition 2
+
+
+<p>This is a paragraph in HTML.</p>
+
+
+:smile: or :thumbsup:
+
+H~2~O
+
+
+x^2^
+
+
+### Header 1 {#custom-id}
+
+
+<div class="my-class">Content</div>
+
+==highlighted text==
+
+
+$$
+E = mc^2
+$$

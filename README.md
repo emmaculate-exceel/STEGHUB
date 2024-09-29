@@ -1,3 +1,6 @@
+![steghub](https://github.com/user-attachments/assets/fffe24ba-ca04-49bf-ac1b-c1a968d28e66)
+
+
 Steghub DevOps/Cloud Engineering Course Overview
 THis Readme is for Steghub DevOps/Cloud Engineering Course! This comprehensive program is designed to show that i emmaculate is currently going through the process of being equip with the essential skills and knowledge to implement, manage, and automate cloud solutions effectively. Below is an outline of the course modules:
 

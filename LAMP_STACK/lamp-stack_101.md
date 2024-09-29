@@ -48,4 +48,5 @@
 ![sshing into my ec2 instance](https://github.com/user-attachments/assets/6d8d99ec-50f3-4d56-ac28-7cd81b1eaa2e)
 
 * connecting to my instance from my local computer
-* ssh nameofuser@serveripaddress
+* sudo chmod 0400 <private_key>.pem
+* ssh -i <private_key>.pem ubuntu@serveripaddress

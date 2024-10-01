@@ -21,10 +21,10 @@ sudo chown -R $USER:$USER /var/www/projectlamp  _# assigning the current user th
 * Creating a config file for the apache2 server in sites-available directory using my preferred terminal text editor
 ```
 sudo emacs /etc/apache2/sites-available/projectlamp.conf # editing 
+```
 
----
 
-
+* now one has to run the below commands for the configurations to be effective
 ```
 sudo a2dissite 000-default _# dissable the default virtual host_
 sudo a2ensite projectlamp.conf _# enable the custom virtual host_

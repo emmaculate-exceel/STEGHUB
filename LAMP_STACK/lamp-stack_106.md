@@ -6,7 +6,7 @@
 
 * Creating a directory for my projectlamp using the ***mkdir*** command as follows.
 ```
-sudo mkdir /var/www/projectlamp  _# creating project directory_
+sudo mkdir /var/www/projectlamp  -# creating project directory-
 ```
 
 ---

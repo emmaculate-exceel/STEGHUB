@@ -27,6 +27,7 @@ sudo emacs /etc/apache2/sites-available/projectlamp.conf # configuration file fo
 ```
 ---
 ![running the necessary command to enhance the config file](https://github.com/user-attachments/assets/12c46864-5e92-4dc9-a49c-3b6857628ce4)
+![Screenshot_2024-10-01_06_23_53](https://github.com/user-attachments/assets/2a4a69e7-d63d-4265-95be-000e39cc9a7f)
 
 
 * now one has to run the below commands for the configurations to be effective

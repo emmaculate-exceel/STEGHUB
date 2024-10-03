@@ -1,4 +1,8 @@
-web stack implementation using lamp stack
+# web stack implementation using lamp stack
+** lamp web stack ** 
+---
+![LAMP-Stack](https://github.com/user-attachments/assets/dfcea874-1ce0-4de5-8e35-df878a63987e)
+
 
 ======================================================================================================================================================================================
 * linux :==

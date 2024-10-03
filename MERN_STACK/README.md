@@ -2,6 +2,7 @@
 
 ** MERN WEB STACK ** consist of the following components
 ---
+![mern-stack](https://github.com/user-attachments/assets/e7dd07bc-8df1-4b74-b99a-066609422251)
 
 
 1. MongoDB: a document Based, No-SQL database used to store application data in a form of documents.

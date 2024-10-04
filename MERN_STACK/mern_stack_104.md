@@ -3,20 +3,19 @@
 #### Models
 
 ---
-
-
-
-
+![installing mongoose](https://github.com/user-attachments/assets/3ce4ab57-d673-4a61-8b82-a929a9265494)
 + installing mongose
 * create a directory called models
 * move into the directory called models
 + create a file called todo.js
+```
+npm install mongoose # install mongoose
+mdkir models # create a folder called models
+cd models # move into models directory
+touch todo.js
+```
 ---
-
-
-
-
-
+![editing script](https://github.com/user-attachments/assets/1a6cc0a6-ac4f-4f53-a2d6-e3bf9e93b255)
 * editing the todo.js file
 ```
 const mongoose = require('mongoose');
@@ -38,11 +37,9 @@ const Todo = mongoose.model('todo', TodoSchema);
 module.exports = Todo
 ```
 ---
+![Updating our api.js file](https://github.com/user-attachments/assets/31c35390-8522-42b0-a573-e690823aba73)
 
-
-
-
-* no in our previous task we created a filed called api.js
+* now in our previous task we created a filed called api.js
 + we'll need to go to the file and edit it
 + we'll delete the content of the file and replace it with this
 ```

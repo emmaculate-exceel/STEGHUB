@@ -30,5 +30,5 @@ npx install nodemon --save-dev
 ![run development](https://github.com/user-attachments/assets/6010f342-686b-480a-a3b6-e4053fe1e307)
 + confirm that everything is running as should
 ```
-npm run dev # test developemnt
+npm run dev # test your developemnt
 ```

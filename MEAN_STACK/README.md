@@ -2,8 +2,7 @@
 
 #### mean stack is a combination of the following
 ---
-
-
+![mean-stack](https://github.com/user-attachments/assets/6a5ca40a-cc52-4d94-8ee7-360bfb14e16c)
 ---
 
 
@@ -20,8 +19,8 @@
 
 #### Side self study
 
-+ OSI model : [https://en.wikipedia.org/wiki/OSI_model]
++ OSI model : [the osi model](https://en.wikipedia.org/wiki/OSI_model)
 
-+ Load balancer: [https://en.wikipedia.org/wiki/Load_balancing_(computing)]
++ Load balancer: [understanding loadbalancer](https://en.wikipedia.org/wiki/Load_balancing_(computing))
 
-+ practice in HTML + CSS + JS: [https://html-css-js.com/]
++ practice in HTML + CSS + JS: [understanding css+html+js](https://html-css-js.com/)

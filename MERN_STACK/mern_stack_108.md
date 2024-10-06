@@ -4,10 +4,7 @@
 
 
 ---
-
-
-
-
+![installing axios](https://github.com/user-attachments/assets/7a1e9ebd-a1e6-415e-9fd5-e7e51d544769)
 + creating directory and files
 + installing axios
 ```
@@ -19,10 +16,8 @@ cd components # mv to dir
 touch Input.js ListTodo.js Todo.js
 ```
 ---
-
-
-
-
+![editing package.json](https://github.com/user-attachments/assets/66e9003b-842d-40f9-9371-951120764afd)
++ editing package.json files
 + edit Input.js
 ```
 import React, { Component } from 'react';
@@ -306,9 +301,7 @@ monospace;
 
 ```
 ---
-
-
-
+![run development](https://github.com/user-attachments/assets/83ca523a-8840-4de2-beb9-6803ba44a998)
 + after everything run
 ```
 npm run dev

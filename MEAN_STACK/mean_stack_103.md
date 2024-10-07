@@ -1,12 +1,10 @@
-# Mean stack web development
+# Mean stack web development 103
 
 #### Installing mongodb
 
 ---
-
-
-
-
+![setting up mongodb certificates](https://github.com/user-attachments/assets/8b5e6933-31a0-4263-a77b-ff8437a4e4a7)
+---
 + setting up an enviroment for mongodb
 + getting mongdb setup file for downloading
 + creating a source list for easy update of mongodb
@@ -17,8 +15,11 @@ curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc | sudo gpg -o /usr/
 echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 multiverse" | sudo tee /etc/apt/souces.list.d/mongodb-org-7.0.list
 ```
 ---
+![installing mongodb](https://github.com/user-attachments/assets/eaff2125-d29e-4797-b048-6414d4bd5f8d)
 
+![mongodb status](https://github.com/user-attachments/assets/35605fca-5190-4779-8e94-8372a13e02b0)
 
+![installing node and body-parser](https://github.com/user-attachments/assets/21003695-1192-4e48-afc0-06db0b751590)
 ---
 + installing mongodb
 + start mongodb service
@@ -34,8 +35,7 @@ sudo apt install npm # install npm
 sudo apt install body-parser # install body parser
 ```
 ---
-
-
+![creating a server file](https://github.com/user-attachments/assets/93ea696c-723c-4ff1-b0c6-abc0d27661ca)
 
 ---
 

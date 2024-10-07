@@ -3,10 +3,8 @@
 #### installing express and setting up routes  to the server
 
 ---
-
-
-
-
+![creating files](https://github.com/user-attachments/assets/fb1b0683-322a-47e2-8049-46bb34618997)
+![installing express and mongoose](https://github.com/user-attachments/assets/b33c5a07-60df-4b97-beeb-ddfbfb39aeca)
 ---
 
 
@@ -72,9 +70,7 @@ app.post('/book', async(req, res) => {
 ```
 
 ----
-
-
-
+![script for the book.js](https://github.com/user-attachments/assets/f4f70a34-c999-424a-abd8-3c9694c795d7)
 ----
 
 + in the apps folder create a folder called models

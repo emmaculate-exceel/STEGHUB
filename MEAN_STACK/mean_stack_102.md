@@ -1,4 +1,4 @@
-# Mean Stack web development
+# Mean Stack web development 102
 
 #### Installing nodejs
 ---

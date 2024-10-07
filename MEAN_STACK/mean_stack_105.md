@@ -3,11 +3,7 @@
 #### Accessing routes using angular js
 
 ---
-
-
-
-
-
+![angular.js script](https://github.com/user-attachments/assets/d21a1344-818b-4226-b3c7-47df2a5da594)
 ---
 
 + from the previous explanation cd ../..
@@ -64,13 +60,8 @@ angular.module('myApp', [])
 ```
 
 ---
-
-
-
-
+![index.html file](https://github.com/user-attachments/assets/7fa60374-ab49-4e25-821c-42fff97298f0)
 ---
-
-
 + create another file called index.html
 + enter the below html codes 
 ```
@@ -141,6 +132,8 @@ angular.module('myApp', [])
 </body>
 </html>
 ```
+---
+![output](https://github.com/user-attachments/assets/2cd76ac2-3548-4c3b-8589-b54341023b0f)
 ---
 + save and exit file
 + then run

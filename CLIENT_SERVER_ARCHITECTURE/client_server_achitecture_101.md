@@ -4,11 +4,9 @@
 #### Understanding client server architecture
 
 ---
+![Client-server](https://github.com/user-attachments/assets/a7ec9960-6432-4f81-8c7d-de27b3a9250c)
 
-
-
-
-
+![client_server](https://github.com/user-attachments/assets/6e5ef78e-6fa0-42e5-be3c-baa08fe6203d)
 ---
 
 
@@ -22,9 +20,7 @@ https:<addressname>.com # via the browsers
 ```
 
 ---
-
-
-
+![Client-server1-server2](https://github.com/user-attachments/assets/bf23bd93-5519-4371-a59d-18eaba214e7d)
 ---
 
 

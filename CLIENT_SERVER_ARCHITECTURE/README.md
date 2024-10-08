@@ -2,7 +2,9 @@
 
 
 #### Understanding client server architecture
-
+---
+![Client-server](https://github.com/user-attachments/assets/0e11dfac-adcf-41db-8833-c3e921a3e2d0)
+---
 
 + Client-server architecture is a computing model where multiple clients (users or devices) request and receive services from a centralized server. The server hosts, manages, and delivers resources or services, while clients access these services over a network. This model is fundamental to many web applications and services.
 

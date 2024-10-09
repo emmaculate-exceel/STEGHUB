@@ -5,11 +5,7 @@
 
 
 ---
-
-
-
-
-
+![diskmanagement](https://github.com/user-attachments/assets/64d5355b-9f02-4d0c-9b21-91aeaf73ab8c)
 ---
 
 
@@ -19,11 +15,7 @@
 
 
 ---
-
-
-
-
-
+![Three-Tier-architecture](https://github.com/user-attachments/assets/5f13838c-4ed0-4246-85a7-8e451b647a5d)
 ---
 
 

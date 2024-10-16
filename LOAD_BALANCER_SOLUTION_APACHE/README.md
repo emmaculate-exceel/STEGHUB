@@ -3,8 +3,7 @@
 
 #### Using Apache as a load balancer for the backend servers
 ---
-
-
+![SupportApache-small](https://github.com/user-attachments/assets/5047b152-0eb6-45f4-9cfd-f704e7a9d65e)
 ---
 
 + A load balancer soluction with Apache typically refers to using the Apache HTTP Server in conjuction with its mod_proxy and mod_proxy_balancer modules to distribute incoming network traffic across multiple backend servers, which can help improve performance, reliability, and availability of applications by balancing the load efficiently.

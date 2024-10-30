@@ -75,4 +75,7 @@ sudo systemctl restart apache2
 ---
 
 
-+ 
++ Confirm that the configuration works
+```
+Visit the site http://<Load-Balancer-Public-IP-Address-or-Public-DNS-Name>/index.php
+```

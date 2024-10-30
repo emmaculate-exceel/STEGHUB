@@ -3,9 +3,7 @@
 
 #### configuring apache2 as a load balancer
 ---
-
-
-
+![Installing apache2](https://github.com/user-attachments/assets/68b2155a-4b9c-4e8e-95b3-2adc0d77cea9)
 ---
 + Installing the neccessary dependencies for configuring apache2 as a load balancer
 
@@ -31,10 +29,7 @@ sudo systemctl restart apache2.service
 ```
 
 ---
-
-
-
-
+![Apache2 Status](https://github.com/user-attachments/assets/a9df4554-bf54-4dd6-89f0-d81b259f133c)
 ---
 
 + Make sure apache2 is running
@@ -43,8 +38,7 @@ sudo systemctl restart apache2.service
 sudo systemctl status apache2
 ```
 ---
-
-
+![Load balancer configurations](https://github.com/user-attachments/assets/6dbb1ae9-e99a-4124-a687-266efcb3e0d2)
 ---
 
 + Configuring apache2
@@ -70,8 +64,7 @@ sudo vi /etc/apache2/sites-available/000-default.conf
 sudo systemctl restart apache2
 ```
 ---
-
-
+![config test](https://github.com/user-attachments/assets/198595e6-c3d3-4f5a-9deb-ae61bf4b660e)
 ---
 
 

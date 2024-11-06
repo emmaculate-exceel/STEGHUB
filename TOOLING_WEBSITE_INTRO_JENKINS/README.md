@@ -1,5 +1,9 @@
 # Jenkins
 
+---
+![jenkins](https://github.com/user-attachments/assets/88c9fd71-470f-4517-a69f-5a68668fd985)
+---
+
 Jenkins is an Open source automation server primarily used for continous integration and continous delivery in software development . it helps to automate various aspect of software development including building, testing, deploying applications, ensuring that software project are consistently and efficiently developed, tested, and delivered .
 
 #### Key features

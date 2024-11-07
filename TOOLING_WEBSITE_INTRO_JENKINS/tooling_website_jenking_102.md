@@ -4,7 +4,7 @@
 
 
 ---
-
+![installing javajdk](https://github.com/user-attachments/assets/21f8c96a-d189-452b-9c0f-8b7c6aef108e)
 
 ---
 
@@ -18,7 +18,7 @@ sudo apt-get install default-jdk-headless
 ```
 
 ---
-
+![adding jenkins repository](https://github.com/user-attachments/assets/30c862a2-4bd1-4689-8eb8-e2179ec7434f)
 
 ---
 
@@ -37,8 +37,7 @@ sudo apt-get install jenkins
 ```
 
 ---
-
-
+![jenkins status](https://github.com/user-attachments/assets/49e0ba34-ac3e-49e1-a222-781656da872f)
 ---
 
 + check jenkins status 
@@ -51,8 +50,7 @@ sudo systemctl status jenkins
 by default jenkins uses port 8080 so make sure that the port inboud rule is open for jenkins to relate and connect successfully .
 
 ---
-
-
+![jenkins on the browser](https://github.com/user-attachments/assets/00d27238-8dcc-4b25-98b8-c4e14c6e51a0)
 ---
 
 + From the browser connect to the <serverip>:8080
@@ -65,8 +63,7 @@ by default jenkins uses port 8080 so make sure that the port inboud rule is open
 ```
 
 ---
-
-
+![customize jenkins account](https://github.com/user-attachments/assets/021d1795-9657-4def-9db5-412357fbc132)
 ---
 
 
@@ -76,3 +73,4 @@ by default jenkins uses port 8080 so make sure that the port inboud rule is open
 
 + Then installation is complete
 
+y

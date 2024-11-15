@@ -10,4 +10,35 @@
 
 + Install publish over ssh
 
-+ Configure the project to configure the project to copy artifacts 
++ Configure the project to configure the project to copy artifacts
+
+---
+
+
+---
+
++ Adding SSH keys
+
++ Adding SSH configuration credentials
+
+---
+
+
+---
+
+
++ Testing configuration if successful or not
+
+---
+
+
+---
+
++ Send build details over SSH
+
+---
+
+
+---
+
++ Check the README file for confirmation

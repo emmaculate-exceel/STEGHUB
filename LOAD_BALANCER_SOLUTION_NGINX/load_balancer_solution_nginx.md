@@ -17,3 +17,4 @@
 
 * In this project we will register our website using LetsEncrypt certificate Authority, to automate certificate issuance we will use a shell client recommended by LetsEncrypt - certbot.
 
+![loadBalancingUsingNginx](https://github.com/user-attachments/assets/8c2cc368-b0e7-4a86-9aa0-60e98d6256c6)

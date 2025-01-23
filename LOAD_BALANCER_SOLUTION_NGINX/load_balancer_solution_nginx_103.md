@@ -7,11 +7,9 @@
 
 
 * Once all the necessary stuff is done the next line of action will be to Configure Nginx to recognize the new domain name .
-
 ---
-
+![Installing certbot](https://github.com/user-attachments/assets/111c816b-f750-4f21-aa42-eca9489f91ba)
 ---
-
 
 * Now let's go back to our nginx.conf file
 
@@ -35,7 +33,8 @@ sudo certbot --nginx
 
 * You can try the secured access using https://<domain name> to reach out to your domain Now your so called website should be reachable using HTTPS which a secured protocol a service the uses (TCP port 443) for the website
 ---
-
+![Installing Certbot](https://github.com/user-attachments/assets/fc14ba27-ada8-45c5-9a93-4b2ef8268eb9)
+---
 ### Setting up periodical renewal of your SSL/TLS certifates
 
 * By default letsEncrypt certificates is valid for 90 days. so it's recommended to renew it at least every 60 days or more frequently.
@@ -45,6 +44,9 @@ sudo certbot --nginx
 ```
 sudo certbot renew --dry-run
 ```
+---
+![Configuring Cron jobs](https://github.com/user-attachments/assets/3c3db3fd-8bb8-45d3-bfd0-ee25d907beff)
+---
 
 + But honestly the best way or should i say best practice is to have scheduled job that runs the renew command periodically and for this reason let us configure a cron job that will run the command twice a day .
 ```

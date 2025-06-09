@@ -26,7 +26,3 @@
 2. High Availability: If one server goes down. others takes over that way it manages downtime.
 
 3. Resource Utilization: More efficient use of server resources by balancing the load.
-
-
-
-
